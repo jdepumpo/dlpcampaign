@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.8289938in"
+   height="1.6835994in"
+   viewBox="0 0 122.65644 42.763424"
+   version="1.1"
+   id="svg152"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="Kickstart.svg">
+  <defs
+     id="defs146">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5159">
+      <stop
+         style="stop-color:#00bd00;stop-opacity:1;"
+         offset="0"
+         id="stop5155" />
+      <stop
+         style="stop-color:#00bd00;stop-opacity:0;"
+         offset="1"
+         id="stop5157" />
+    </linearGradient>
+    <path
+       style="opacity:0;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 819.59219,210.32475 c 60.03011,-109.68194 199.82391,-106.751 258.39361,2.20222"
+       id="path590"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Colorize"
+       id="filter588">
+      <feComposite
+         k4="0"
+         k3="0"
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="3.4"
+         result="composite1"
+         id="feComposite574" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix576" />
+      <feFlood
+         flood-opacity="0.878431"
+         flood-color="rgb(255,255,255)"
+         result="flood1"
+         id="feFlood578" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="normal"
+         result="blend1"
+         id="feBlend580" />
+      <feBlend
+         in2="blend1"
+         mode="multiply"
+         result="blend2"
+         id="feBlend582" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix584" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite2"
+         id="feComposite586" />
+    </filter>
+    <path
+       style="opacity:0;fill:none;stroke:#fffff4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 821.94386,391.63665 c 61.38291,61.64205 166.45869,85.65405 254.99204,-1.29767"
+       id="path656"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Colorize"
+       id="filter588-2">
+      <feComposite
+         k4="0"
+         k3="0"
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="3.4"
+         result="composite1"
+         id="feComposite574-7" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix576-0" />
+      <feFlood
+         flood-opacity="0.878431"
+         flood-color="rgb(255,255,255)"
+         result="flood1"
+         id="feFlood578-9" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="normal"
+         result="blend1"
+         id="feBlend580-3" />
+      <feBlend
+         in2="blend1"
+         mode="multiply"
+         result="blend2"
+         id="feBlend582-6" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix584-0" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite2"
+         id="feComposite586-6" />
+    </filter>
+    <path
+       style="opacity:0;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 819.59219,210.32475 c 60.03011,-109.68194 199.82391,-106.751 258.39361,2.20222"
+       id="path590-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0;fill:none;stroke:#fffff4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 821.94386,391.63665 c 61.38291,61.64205 166.45869,85.65405 254.99204,-1.29767"
+       id="path656-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5159"
+       id="radialGradient5163"
+       cx="92.159599"
+       cy="264.52069"
+       fx="92.159599"
+       fy="264.52069"
+       r="26.742363"
+       gradientTransform="matrix(1,0,0,0.24684128,0,199.22606)"
+       gradientUnits="userSpaceOnUse" />
+    <mask
+       id="mask6794"
+       maskUnits="userSpaceOnUse">
+      <rect
+         y="198.93199"
+         x="-14.534982"
+         height="31.907764"
+         width="60.813808"
+         id="rect6796"
+         style="fill:#ffffff;stroke-width:0.26458332" />
+    </mask>
+    <clipPath
+       id="clipPath6292"
+       clipPathUnits="userSpaceOnUse">
+      <text
+         transform="scale(0.97456511,1.0260987)"
+         id="text6296"
+         y="680.08014"
+         x="792.0423"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:455.13031006px;line-height:1.25;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:11.3788023"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:455.13031006px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#44aa00;stroke-width:11.3788023"
+           y="680.08014"
+           x="792.0423"
+           id="tspan6294"
+           sodipodi:role="line">A</tspan></text>
+    </clipPath>
+    <filter
+       id="filter6368"
+       inkscape:label="Colorize"
+       style="color-interpolation-filters:sRGB">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         id="feColorMatrix6366"
+         values="0.21 0.72 0.072 -0.33 0 0.21 0.72 0.072 -0.33 0 0.21 0.72 0.072 -0.33 0 0 0 0 1 0 " />
+      <feColorMatrix
+         id="feColorMatrix6498"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feComposite
+         k4="0"
+         k3="0"
+         in="fbSourceGraphic"
+         result="composite1"
+         k2="3.36898"
+         k1="0"
+         operator="arithmetic"
+         id="feComposite6500"
+         in2="fbSourceGraphic" />
+      <feColorMatrix
+         result="colormatrix1"
+         type="saturate"
+         values="1"
+         in="composite1"
+         id="feColorMatrix6502" />
+      <feFlood
+         result="flood1"
+         flood-color="rgb(0,204,41)"
+         flood-opacity="0.807843"
+         id="feFlood6504" />
+      <feBlend
+         result="blend1"
+         mode="normal"
+         in="flood1"
+         id="feBlend6506"
+         in2="colormatrix1" />
+      <feBlend
+         result="blend2"
+         mode="multiply"
+         id="feBlend6508"
+         in2="blend1" />
+      <feColorMatrix
+         result="colormatrix2"
+         type="saturate"
+         values="1"
+         in="blend2"
+         id="feColorMatrix6510" />
+      <feComposite
+         result="composite2"
+         operator="in"
+         in="colormatrix2"
+         id="feComposite6512"
+         in2="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="267.44957"
+     inkscape:cy="6.2145736"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     height="3in"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata149">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.46828,-223.59165)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.55346298px;line-height:1.25;font-family:Knewave;-inkscape-font-specification:'Knewave, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.41383657;stroke-opacity:1"
+       x="52.450516"
+       y="250.74298"
+       id="text599"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="52.450516"
+         y="250.74298"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.55346298px;font-family:Knewave;-inkscape-font-specification:'Knewave, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#aad400;stroke:none;stroke-width:0.41383657;stroke-opacity:1"
+         id="tspan601">Kickstart</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.82254124px;line-height:1.25;font-family:Knewave;-inkscape-font-specification:'Knewave, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.29556352;stroke-opacity:1"
+       x="72.774521"
+       y="261.2767"
+       id="text599-0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="72.774521"
+         y="261.2767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.82254124px;font-family:Knewave;-inkscape-font-specification:'Knewave, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#aad400;stroke:none;stroke-width:0.29556352;stroke-opacity:1"
+         id="tspan601-6">Campaign</tspan></text>
+    <g
+       transform="matrix(0.38955516,0,0,0.38955516,-15.517844,214.80696)"
+       id="layer1-7"
+       inkscape:label="Layer 1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         transform="matrix(2.2852772,0,0,2.2852772,6.3238937,-543.55687)"
+         style="opacity:0.79814387"
+         id="g6591">
+        <g
+           transform="translate(-4.2333335)"
+           id="g6872">
+          <text
+             transform="matrix(0.97456512,0,0,1.0260987,35.43659,70.634329)"
+             id="text6140-5-2"
+             y="219.39488"
+             x="-6.2359285"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.62051392px;line-height:1.25;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.79814387;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.64059138"
+             xml:space="preserve"
+             mask="url(#mask6794)"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.62051392px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008000;stroke-width:1.64059138"
+               y="219.39488"
+               x="-6.2359285"
+               id="tspan6138-3-8"
+               sodipodi:role="line">A</tspan></text>
+          <g
+             style="opacity:1"
+             id="g74-2-5"
+             transform="matrix(0.14417962,0,0,0.14417962,-81.894776,194.98046)">
+            <g
+               id="g72-6-7"
+               style="enable-background:new">
+              <g
+                 id="g6-0-5">
+                <polygon
+                   id="polygon4-9-7"
+                   points="1006.974,697.01 986.481,577.544 "
+                   style="fill:#f29100" />
+              </g>
+              <g
+                 id="g10-3-1">
+                <polygon
+                   id="polygon8-0-8"
+                   points="812.889,577.544 792.396,697.01 " />
+              </g>
+              <g
+                 id="g14-54-4">
+                <polygon
+                   id="polygon12-3-8"
+                   points="1073.277,492.935 953.325,475.511 "
+                   style="fill:#f29100" />
+              </g>
+              <g
+                 id="g18-9-8">
+                <polygon
+                   id="polygon16-3-5"
+                   points="846.045,475.511 726.093,492.935 "
+                   style="fill:#f29100" />
+              </g>
+              <g
+                 id="g22-0-0">
+                <polygon
+                   id="polygon20-4-9"
+                   points="899.685,366.818 846.045,475.511 " />
+              </g>
+              <g
+                 id="g26-6-5">
+                <polygon
+                   id="polygon24-7-8"
+                   points="953.325,475.511 899.685,366.818 "
+                   style="fill:#f29100" />
+              </g>
+              <g
+                 id="g30-9-8">
+                <polygon
+                   id="polygon28-8-9"
+                   points="1006.974,697.01 899.685,640.607 899.685,549.548 899.923,549.673 "
+                   style="fill:#9f7a2a" />
+              </g>
+              <g
+                 id="g34-1-3">
+                <polygon
+                   id="polygon32-6-3"
+                   points="899.685,640.607 792.396,697.01 899.447,549.673 899.685,549.548 "
+                   style="fill:#543610" />
+              </g>
+              <g
+                 id="g38-82-3">
+                <polygon
+                   id="polygon36-3-7"
+                   points="986.481,577.544 1006.974,697.01 899.923,549.673 899.877,549.407 "
+                   style="fill:#7b5119" />
+              </g>
+              <g
+                 id="g42-1-8">
+                <polygon
+                   id="polygon40-4-1"
+                   points="792.396,697.01 812.889,577.544 899.493,549.407 899.447,549.673 "
+                   style="fill:#ebf05e" />
+              </g>
+              <g
+                 id="g46-4-6">
+                <polygon
+                   id="polygon44-2-8"
+                   points="812.889,577.544 726.093,492.935 899.302,549.221 899.493,549.407 "
+                   style="fill:#9c7824" />
+              </g>
+              <g
+                 id="g50-2-8">
+                <polygon
+                   id="polygon48-3-5"
+                   points="1073.277,492.935 986.481,577.544 899.877,549.407 900.068,549.221 "
+                   style="fill:#533712" />
+              </g>
+              <g
+                 id="g54-8-6">
+                <polygon
+                   id="polygon52-4-0"
+                   points="726.093,492.935 846.045,475.511 899.569,549.182 899.302,549.221 "
+                   style="fill:#fffe72" />
+              </g>
+              <g
+                 id="g58-5-7">
+                <polygon
+                   id="polygon56-0-2"
+                   points="953.325,475.511 1073.277,492.935 900.068,549.221 899.801,549.182 "
+                   style="fill:#ffff77" />
+              </g>
+              <g
+                 id="g62-0-0">
+                <polygon
+                   id="polygon60-5-3"
+                   points="846.045,475.511 899.685,366.818 899.685,548.946 899.569,549.182 "
+                   style="fill:#e0e055" />
+              </g>
+              <g
+                 id="g66-1-9">
+                <polygon
+                   id="polygon64-6-6"
+                   points="899.877,549.407 899.923,549.673 899.685,549.548 899.447,549.673 899.493,549.407 899.302,549.221 899.569,549.182 899.685,548.946 899.801,549.182 900.068,549.221 "
+                   style="fill:#cf7c00" />
+              </g>
+              <g
+                 id="g70-7-0">
+                <polygon
+                   id="polygon68-7-2"
+                   points="899.685,366.818 953.325,475.511 899.801,549.182 899.685,548.946 "
+                   style="fill:#754b13" />
+              </g>
+            </g>
+          </g>
+          <g
+             style="filter:url(#filter6368)"
+             clip-path="url(#clipPath6292)"
+             id="g74-2"
+             transform="matrix(0.14417962,0,0,0.14417962,-81.894776,194.98046)">
+            <g
+               id="g72-6"
+               style="enable-background:new">
+              <g
+                 id="g6-0">
+                <polygon
+                   id="polygon4-9"
+                   points="986.481,577.544 1006.974,697.01 "
+                   style="fill:#f29100" />
+              </g>
+              <g
+                 id="g10-3">
+                <polygon
+                   id="polygon8-0"
+                   points="792.396,697.01 812.889,577.544 " />
+              </g>
+              <g
+                 id="g14-54">
+                <polygon
+                   id="polygon12-3"
+                   points="953.325,475.511 1073.277,492.935 "
+                   style="fill:#f29100" />
+              </g>
+              <g
+                 id="g18-9">
+                <polygon
+                   id="polygon16-3"
+                   points="726.093,492.935 846.045,475.511 "
+                   style="fill:#f29100" />
+              </g>
+              <g
+                 id="g22-0">
+                <polygon
+                   id="polygon20-4"
+                   points="846.045,475.511 899.685,366.818 " />
+              </g>
+              <g
+                 id="g26-6">
+                <polygon
+                   id="polygon24-7"
+                   points="899.685,366.818 953.325,475.511 "
+                   style="fill:#f29100" />
+              </g>
+              <g
+                 id="g30-9">
+                <polygon
+                   id="polygon28-8"
+                   points="899.685,640.607 899.685,549.548 899.923,549.673 1006.974,697.01 "
+                   style="fill:#9f7a2a" />
+              </g>
+              <g
+                 id="g34-1">
+                <polygon
+                   id="polygon32-6"
+                   points="792.396,697.01 899.447,549.673 899.685,549.548 899.685,640.607 "
+                   style="fill:#543610" />
+              </g>
+              <g
+                 id="g38-82">
+                <polygon
+                   id="polygon36-3"
+                   points="1006.974,697.01 899.923,549.673 899.877,549.407 986.481,577.544 "
+                   style="fill:#7b5119" />
+              </g>
+              <g
+                 id="g42-1">
+                <polygon
+                   id="polygon40-4"
+                   points="812.889,577.544 899.493,549.407 899.447,549.673 792.396,697.01 "
+                   style="fill:#ebf05e" />
+              </g>
+              <g
+                 id="g46-4">
+                <polygon
+                   id="polygon44-2"
+                   points="726.093,492.935 899.302,549.221 899.493,549.407 812.889,577.544 "
+                   style="fill:#9c7824" />
+              </g>
+              <g
+                 id="g50-2">
+                <polygon
+                   id="polygon48-3"
+                   points="986.481,577.544 899.877,549.407 900.068,549.221 1073.277,492.935 "
+                   style="fill:#533712" />
+              </g>
+              <g
+                 id="g54-8">
+                <polygon
+                   id="polygon52-4"
+                   points="846.045,475.511 899.569,549.182 899.302,549.221 726.093,492.935 "
+                   style="fill:#fffe72" />
+              </g>
+              <g
+                 id="g58-5">
+                <polygon
+                   id="polygon56-0"
+                   points="1073.277,492.935 900.068,549.221 899.801,549.182 953.325,475.511 "
+                   style="fill:#ffff77" />
+              </g>
+              <g
+                 id="g62-0">
+                <polygon
+                   id="polygon60-5"
+                   points="899.685,366.818 899.685,548.946 899.569,549.182 846.045,475.511 "
+                   style="fill:#e0e055" />
+              </g>
+              <g
+                 id="g66-1">
+                <polygon
+                   id="polygon64-6"
+                   points="899.685,548.946 899.801,549.182 900.068,549.221 899.877,549.407 899.923,549.673 899.685,549.548 899.447,549.673 899.493,549.407 899.302,549.221 899.569,549.182 "
+                   style="fill:#cf7c00" />
+              </g>
+              <g
+                 id="g70-7">
+                <polygon
+                   id="polygon68-7"
+                   points="953.325,475.511 899.801,549.182 899.685,548.946 899.685,366.818 "
+                   style="fill:#754b13" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57893419px;line-height:1.25;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.79098361;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:0.06447068"
+       x="54.099453"
+       y="236.04004"
+       id="text5363"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="54.099453"
+         y="236.04004"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57893419px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#44aa00;stroke-width:0.06447068"
+         id="tspan5365">THE ALPHA CHAPTER</tspan></text>
+  </g>
+</svg>
